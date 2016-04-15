@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Byte Me! The Blog</title>
+    <link>http://lee.williamsfamilyathome.co.uk/post/</link>
+    <description>Recent content in Posts on Byte Me! The Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 15 Apr 2016 12:21:10 +0100</lastBuildDate>
+    <atom:link href="http://lee.williamsfamilyathome.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>helloworld</title>
+      <link>http://lee.williamsfamilyathome.co.uk/post/helloworld/</link>
+      <pubDate>Fri, 15 Apr 2016 12:21:10 +0100</pubDate>
+      
+      <guid>http://lee.williamsfamilyathome.co.uk/post/helloworld/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome:b0550240c0a1b7c12779ff8220a94c0f&#34;&gt;Welcome.&lt;/h1&gt;
+
+&lt;p&gt;I wanted to investigate what static site creators were around, and a guy from work put me on to Hugo.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m seriously impressed with the ease of the workflow and getting it setup so I think I&amp;rsquo;ll be learning a lot more about Hugo.  Using markdown to create web content is so easy what with Atom and a few plugins I&amp;rsquo;m laughing! Up and running in moments rather than days - plus Apache can be a very basic setup as the content generated is simple static web stuff, none of the associated vulnerabilities of other frameworks.&lt;/p&gt;
+
+&lt;p&gt;All in all I recommend you check it out &lt;a href=&#34;http://gohugo.io&#34;&gt;Go Hugo!&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
